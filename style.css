@@ -3,3 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+header h2{
+    background-color: rgb(70, 21, 113);
+    color: aliceblue;
+}
